@@ -7,19 +7,6 @@
   src: url('./fonts/noto-sans-sc-v11-latin_chinese-simplified-regular.woff2') format('woff2')
 }
 
-
-
-.tooltipTable {
-  font-family: Open Sans,Helvetica,Arial,sans-serif;
-  border: 0px;
-  border-collapse: collapse;
-  table-layout: auto;
-}
-
-.focus {
-  font-weight: bold;
-}
-
 .hidden {
     display: none;
 }
@@ -30,7 +17,7 @@
 
 .reportTable {
   font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
-  color: #696969;
+  color: #50c7b1;
   border-collapse: collapse;
   border-spacing: 3px;
   table-layout: fixed;
