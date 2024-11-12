@@ -17,14 +17,14 @@
 
 .reportTable {
   font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
-  color: #50c7b1;
+  color: #000000;
   border-collapse: collapse;
   border-spacing: 3px;
   table-layout: fixed;
 }
 
 th.headerCell {
-  background-color: #ccd8e4;
+  background-color: #50c7b1;
   padding: 5px;
   border-bottom: 1px solid #BDC3C7;
 }
